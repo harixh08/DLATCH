@@ -40,23 +40,27 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 
 ## Circuit Diagram
 
-### 1. Schematic of D Flip-Flop
-![Screenshot 2025-03-26 183800](https://github.com/user-attachments/assets/4885084f-bc03-4b77-8e98-fc9125ef07bc)
+### 1. Tri State D Flip-Flop
+![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
+
+### 2. Schematic of D Flip-Flop
+
+![exp-3 balasubramanian ep 1](https://github.com/user-attachments/assets/cf40ccaa-8481-4212-b5e5-94b4749dce8d)
+
+### 3. Transient Response Setup
+![exp-3 balasubramanian ep 2](https://github.com/user-attachments/assets/a94fa43d-e414-4ae5-a070-c745b2b23e03)
 
 
-### 2. Transient Response Setup
-*
-![Screenshot 2025-03-26 183705](https://github.com/user-attachments/assets/e095e54a-f654-406f-bd29-ec2e6407112a)
 
-![Screenshot 2025-03-26 183721](https://github.com/user-attachments/assets/7f5bcd93-bed2-475b-a851-cd1896cb3c19)
-
- 
 
 ## Output
-![Screenshot 2025-03-26 183603](https://github.com/user-attachments/assets/d2081838-56cf-4b6f-a0de-cf935f4b7ca2)
 
 ### 1. Transient Analysis Output
+![exp-3 balasubramanian ep 3 output](https://github.com/user-attachments/assets/8b404f2c-878f-44ad-bd8b-ae4b1509370d)
+
+
 
 ## Results
 1. Successfully designed the D flip-flop schematic using Cadence EDA tools.
 2. The simulation results verified the correct sequential logic behavior, ensuring that the Q output correctly follows the D input on the rising edge of the clock.
+3. The waveform analysis demonstrated the expected timing behavior and performance of the D flip-flop circuit.
